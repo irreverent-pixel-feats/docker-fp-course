@@ -1,6 +1,6 @@
 PWD = $(shell pwd)
 REPO = irreverentpixelfeats/fp-course
-BASE_TAG = ubuntu_xenial_8.0.2_1.24
+BASE_TAG = ubuntu_xenial-8.0.2_1.24
 
 .PHONY: deps build image all
 
